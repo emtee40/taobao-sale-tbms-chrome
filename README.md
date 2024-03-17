@@ -1,8 +1,8 @@
-# 淘宝秒杀Chrome插件
+# Taobao flash sale Chrome plug-in
 
-Chrome插件，辅助提高秒杀速度，降低验证码识别难度。
+ Chrome plug-in helps to increase the speed of flash sale and reduce the difficulty of verification code recognition.
 
-## 功能
- - 秒杀前 5 分钟自动刷新页面。
- - 秒杀前 3 秒开始快速自动点击“刷新抢宝”。
- - 简化验证码图片，使人工识别更容易。
+ ## Function
+  - Automatically refresh the page 5 minutes before the flash sale.
+  - Click "Refresh to grab treasure" quickly and automatically starting 3 seconds before the flash sale.
+  - Simplified verification code images to make manual identification easier.
